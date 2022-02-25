@@ -1,3 +1,27 @@
+# Title:
+**START ATTACK:**
+- From this option you can start attack and explore available option in tool Type ok in next step.
+
+   
+
+# Command:
+
+- ``pkg install git -y``
+- ``pkg install git -y``
+- ``pkg install git -y``
+
+### Single Line Command:
+
+```
+pkg install git -y && pkg install git -y && pkg install git -y && pkg install git -y && 
+```
+
+
+
+
+![117566254-31801e00-b0d3-11eb-860d-5601b1adccb8](https://user-images.githubusercontent.com/96676124/155658904-e51b4828-082d-4fd7-87a1-8688450dde9a.jpg)
+
+
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/96676124/155658538-274332f9-3dc3-4636-9b39-75d01b63279d.gif"> </p>
 
 
