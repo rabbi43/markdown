@@ -7,7 +7,7 @@
 </p>
 
 # Badge Generator:
-[![badge - Generator](https://img.shields.io/badge/badge-Generator-2ea44f?style=for-the-badge)](https://https://michaelcurrin.github.io/badge-generator/#/)
+[![badge - Generator](https://img.shields.io/badge/badge-Generator-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/badge-generator/#/)
 
    
 
