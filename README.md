@@ -1,11 +1,15 @@
 <p align="center">
-<a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-BD-SCRIPT?colorA=%24ff9100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-<br>
-<img src="https://img.shields.io/badge/Made%20in-Bangladesh-green">
 
+<p align="center"> 
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 </p>
 
+# Badge Generator:
+[![badge - Generator](https://img.shields.io/badge/badge-Generator-2ea44f?style=for-the-badge)](https://https://michaelcurrin.github.io/badge-generator/#/)
+
+   
 
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/fazle-rabbi-brightgreen?style=for-the-badge&logo=facebook"></a>
