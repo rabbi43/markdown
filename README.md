@@ -1,4 +1,29 @@
+<p align="center">
+<a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-BD-SCRIPT?colorA=%24ff9100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<br>
+<img src="https://img.shields.io/badge/Made%20in-Bangladesh-green">
 
+
+</p>
+
+
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/fazle-rabbi-brightgreen?style=for-the-badge&logo=facebook"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Muhammd Rabbi-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/Twitter-Muhammd Rabbi-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/Telegram-fhrabbi-pink?style=for-the-badge&logo=telegram"></a>
+
+
+</p>
+
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/fh-rabbi?color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/mrphish?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/mrphish?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/mrphish?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
 
 
 
