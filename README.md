@@ -4,38 +4,70 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+
+
+```   
+<p align="center"> 
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+```
+
+
+
 </p>
 
-# Badge Generator:
+#### Online Badge Generator:
 [![badge - Generator](https://img.shields.io/badge/badge-Generator-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/badge-generator/#/)
 
-   
+### Generated Badge (social):   
 
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/fazle-rabbi-brightgreen?style=for-the-badge&logo=facebook"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Muhammd Rabbi-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/Twitter-Muhammd Rabbi-blue?style=for-the-badge&logo=twitter"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/Telegram-fhrabbi-pink?style=for-the-badge&logo=telegram"></a>
+<p align="left">
 
-
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Facebook-Follow-2BA1FF?style=for-the-badge&logo=facebook&logoColor=2BA1FF" alt="Facebook - Follow"></a>
+<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-Follow-FF1AA3?style=for-the-badge&logo=instagram&logoColor=FF1AA3" alt="Instagram - Follow"></a>
+<a href="https://m.me/username"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger&logoColor=2BA1FF" alt="Chat - Messenger"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Telegram-Chat-A43AED?style=for-the-badge&logo=telegram&logoColor=A43AED" alt="Telegram - Chat"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Twitter-Follow-13C586?style=for-the-badge&logo=twitter&logoColor=13C586" alt="Twitter - Follow"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Visit-Website-red?style=for-the-badge&logo=blogger&logoColor=pink" alt="Visit - Website"></a>
 </p>
 
+```
+<p align="left">
+
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Facebook-Follow-2BA1FF?style=for-the-badge&logo=facebook&logoColor=2BA1FF" alt="Facebook - Follow"></a>
+<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-Follow-FF1AA3?style=for-the-badge&logo=instagram&logoColor=FF1AA3" alt="Instagram - Follow"></a>
+<a href="https://m.me/username"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger&logoColor=2BA1FF" alt="Chat - Messenger"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Telegram-Chat-A43AED?style=for-the-badge&logo=telegram&logoColor=A43AED" alt="Telegram - Chat"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Twitter-Follow-13C586?style=for-the-badge&logo=twitter&logoColor=13C586" alt="Twitter - Follow"></a>
+<a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Visit-Website-red?style=for-the-badge&logo=blogger&logoColor=pink" alt="Visit - Website"></a>
+</p>
+```
+
+
+
+### Generared Badge (about tool):
+
+
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/fh-rabbi?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/mrphish?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/mrphish?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/mrphish?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href=""><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href=""><img title="Followers" src="https://img.shields.io/github/followers/fh-rabbi?color=blue&style=flat-square"></a>
+<a href=""><img title="Stars" src="https://img.shields.io/github/stars/username/toolname?color=red&style=flat-square"></a>
+<a href=""><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/mrphish?color=red&style=flat-square"></a>
+<a href=""><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/mrphish?label=Watchers&color=blue&style=flat-square"></a>
+<a href=""><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
+```
+<p align="center">
+<a href=""><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href=""><img title="Followers" src="https://img.shields.io/github/followers/fh-rabbi?color=blue&style=flat-square"></a>
+<a href=""><img title="Stars" src="https://img.shields.io/github/stars/username/toolname?color=red&style=flat-square"></a>
+<a href=""><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/mrphish?color=red&style=flat-square"></a>
+<a href=""><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/mrphish?label=Watchers&color=blue&style=flat-square"></a>
+<a href=""><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
 
-
-
-# Connect with me:
-> ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861742d4d657373656e6765722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d657373656e676572](https://user-images.githubusercontent.com/96676124/155660556-645e14a8-be9a-46bc-a04f-9d6b3f7fe39d.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2d464f4c4c4f572d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d](https://user-images.githubusercontent.com/96676124/155660931-df89191b-46bc-4465-b959-f13270c74831.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f574542534954452d56495349542d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67676572](https://user-images.githubusercontent.com/96676124/155660947-0e7a1215-b8b1-4247-9b03-22017715c964.svg)
+```
 
 # Title:
 **START ATTACK:**
