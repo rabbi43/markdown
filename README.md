@@ -1,3 +1,46 @@
+
+<p align="center">
+<a href="https://github.com/fh-rabbi/islam"><img title="islam" src="https://github-readme-stats.vercel.app/api/pin/?username=fh-rabbi&repo=islam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+</p>
+
+## Code:
+
+```
+<p align="center">
+<a href="https://github.com/fh-rabbi/islam"><img title="islam" src="https://github-readme-stats.vercel.app/api/pin/?username=fh-rabbi&repo=islam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+</p>
+```
+   
+
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+</p>
+
+## Code:
+```
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+</p>
+```
+
+   
+<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+# Code:
+```
+<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+```
+
+
+
 <p align="center">
 
 <p align="center"> 
