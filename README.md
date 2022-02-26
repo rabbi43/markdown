@@ -1,3 +1,25 @@
+# Table:
+
+|Step|Name|
+|----|----|
+|01  |Header==>|
+|02|About Tool|
+|03|Available on|
+|04|Tested on|
+|05|Requirements|
+|06|Feature|
+|07|Installation|
+|08|Usage Option|
+|09|Screenshots|
+|10|Watch Video|
+|11|Connect With Me|
+|12|Buy me a coffee|
+|13|Warning|
+
+
+
+
+
 
 <p align="center">
 <a href="https://github.com/fh-rabbi/islam"><img title="islam" src="https://github-readme-stats.vercel.app/api/pin/?username=fh-rabbi&repo=islam&theme=radical"></a>
